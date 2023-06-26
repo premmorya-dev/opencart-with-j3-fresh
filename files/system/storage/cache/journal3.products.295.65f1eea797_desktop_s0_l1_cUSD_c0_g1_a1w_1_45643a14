@@ -1,0 +1,1676 @@
+<?php $val = array (
+  'css' => '.module-products-295 .title.module-title{font-size:20px;color:rgba(105, 105, 115, 1);white-space:normal;overflow:visible;text-overflow:initial}.module-products-295 .swiper-container{overflow:hidden;padding:20px;padding-top:0px}.module-products-295 .swiper-buttons{display:none;top:50%;width:calc(100% - (-15px * 2));margin-top:-10px}.module-products-295:hover .swiper-buttons{display:block}.module-products-295 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-products-295 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-products-295 .swiper-buttons
+div{width:35px;height:35px;background:rgba(44, 54, 64, 1);border-width:4px;border-style:solid;border-color:rgba(248, 248, 248, 1);border-radius:50%}.module-products-295 .swiper-button-disabled{opacity:0}.module-products-295 .swiper-buttons div::before{content:\'\\e408\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-products-295 .swiper-buttons .swiper-button-next::before{content:\'\\e409\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-products-295 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(254, 212, 48, 1)}.module-products-295 .swiper-pagination{display:block;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-products-295
+.swiper{padding-bottom:15px}.module-products-295 .swiper-pagination-bullet{width:8px;height:8px;background-color:rgba(226, 226, 226, 1)}.module-products-295 .swiper-pagination>span+span{margin-left:8px}.desktop .module-products-295 .swiper-pagination-bullet:hover{background-color:rgba(219, 232, 240, 1)}.module-products-295 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(252, 187, 1, 1)}.module-products-295 .swiper-pagination>span{border-radius:50px}.module-products-295 .panel-group .panel-heading a::before{content:\'\\f067\' !important;font-family:icomoon !important;margin-right:3px;order:10}.desktop .module-products-295 .panel-group .panel-heading:hover a::before{color:rgba(66, 66, 66, 1)}.module-products-295 .panel-group .panel-active .panel-heading a::before{content:\'\\f068\' !important;font-family:icomoon !important;color:rgba(252, 187, 1, 1)}.module-products-295 .panel-group .panel-heading
+a{justify-content:space-between;font-family:\'Montserrat\';font-weight:600;color:rgba(105, 105, 115, 1);text-transform:uppercase;padding:15px;padding-right:5px;padding-left:0px}.module-products-295 .panel-group .panel-heading:hover
+a{color:rgba(66, 66, 66, 1)}.module-products-295 .panel-group .panel-active .panel-heading:hover a, .module-products-295 .panel-group .panel-active .panel-heading
+a{color:rgba(252, 187, 1, 1)}.module-products-295 .panel-group .panel-heading{border-width:0;border-top-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1)}.module-products-295 .panel-group .panel:first-child .panel-heading{border-width:0px}.module-products-295 .panel-group .panel-body{padding-bottom:20px}.module-products-295 .nav-tabs > li > a, .module-products-295 .nav-tabs > li.active > a, .module-products-295 .nav-tabs > li.active > a:hover, .module-products-295 .nav-tabs>li.active>a:focus{font-family:\'Montserrat\';font-weight:700;font-size:13px;color:rgba(105, 105, 115, 1);text-transform:uppercase}.desktop .module-products-295 .nav-tabs > li:hover > a, .module-products-295 .nav-tabs>li.active>a{color:rgba(255, 255, 255, 1)}.module-products-295 .nav-tabs > li.active > a, .module-products-295 .nav-tabs > li.active > a:hover, .module-products-295 .nav-tabs>li.active>a:focus{color:rgba(255, 255, 255, 1)}.module-products-295 .nav-tabs > li > a, .module-products-295 .nav-tabs > li:hover > a, .module-products-295 .nav-tabs > li.active > a, .module-products-295 .nav-tabs > li.active > a, .module-products-295 .nav-tabs > li.active > a:hover, .module-products-295 .nav-tabs>li.active>a:focus{background:rgba(238, 238, 238, 1) !important}.desktop .module-products-295 .nav-tabs>li:hover>a{background:rgba(66, 66, 66, 1) !important}.module-products-295 ul.nav-tabs > li.active > a, .module-products-295 ul.nav-tabs > li.active > a:hover, .module-products-295 ul.nav-tabs>li.active>a:focus{background:rgba(66, 66, 66, 1) !important}.module-products-295 .nav-tabs>li{border-width:0;border-left-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1);flex-grow:0}.module-products-295 .nav-tabs>li.active::after{content:\'\';display:block;position:absolute;border:10px
+solid transparent;left:50%;top:100%;transform:translate(-50%, 0);border-top-color:rgba(66, 66, 66, 1);border-top-width:10px}.module-products-295 .nav-tabs>li>a{justify-content:center;white-space:normal;padding:15px;padding-top:11px;padding-bottom:12px}.module-products-295 .nav-tabs{border-radius:3px;margin-bottom:20px;display:flex;justify-content:center;flex-wrap:wrap;overflow-x:visible;overflow-y:visible;-webkit-overflow-scrolling:touch;;min-width:50px}.module-products-295 .nav-tabs>li:not(:last-child){margin-right:0px}.module-products-295 .mobile .nav-tabs{overflow-x:visible}.module-products-295 .nav-tabs::-webkit-scrollbar{-webkit-appearance:initial;height:1px;height:5px;width:5px}.module-products-295 .nav-tabs::-webkit-scrollbar-track{background-color:white}.module-products-295 .nav-tabs::-webkit-scrollbar-thumb{background-color:#999}.module-products-295 .tab-container::before{display:none}.module-products-295 .tab-container{display:block}.module-products-295 .tab-container .nav-tabs{flex-direction:row}.module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 5 * 14px) / 6 - 0.01px)}.module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 6 - 0.01px)}.one-column #content .module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 4 * 14px) / 5 - 0.01px)}.one-column #content .module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 5 - 0.01px)}.two-column #content .module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 2 * 14px) / 3 - 0.01px)}.two-column #content .module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 3 - 0.01px)}.side-column .module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 0 * 14px) / 1 - 0.01px)}.side-column .module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 1 - 0.01px)}.module-products-295 .module-body>.module-item{margin-bottom:20px}.module-products-295:not(.carousel-mode) .module-body .module-item>div{margin:-10px}.module-products-295 .product-grid .product-thumb{background:rgba(255, 255, 255, 1);border-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1);border-radius:7px}.desktop .module-products-295 .product-grid .product-thumb:hover{box-shadow:0 10px 30px rgba(0, 0, 0, 0.1)}.module-products-295 .product-grid .product-thumb:hover .product-img>div{transform:scale(1.12)}.module-products-295 .product-grid .product-thumb .image
+img{background:rgba(238, 238, 238, 1)}.module-products-295 .product-grid .product-thumb .product-labels{visibility:visible;opacity:1}.module-products-295 .product-grid .product-thumb .quickview-button{display:none;left:50%;top:50%;bottom:auto;right:auto;transform:translate3d(-50%, -50%, 1px);margin-right:5px;margin-bottom:5px}.module-products-295 .product-grid .out-of-stock .product-thumb .quickview-button{display:flex}.module-products-295 .product-grid .product-thumb .btn-quickview{visibility:visible;opacity:1;width:40px;height:40px}.module-products-295 .product-grid .product-thumb .btn-quickview .btn-text{display:none}.module-products-295 .product-grid .product-thumb .btn-quickview::before{display:inline-block;content:\'\\ebef\' !important;font-family:icomoon !important;font-size:16px}.module-products-295 .product-grid .product-thumb
+.countdown{display:none;visibility:visible;opacity:1;transform:translate3d(-50%, 0, 1px) scale(1);font-family:\'Montserrat\';font-weight:400;font-size:22px;color:rgba(51, 51, 51, 1);background:rgba(240, 242, 245, 1);border-radius:3px;width:90%;bottom:35px}.module-products-295 .product-grid .product-thumb .countdown div
+span{color:rgba(105, 105, 115, 1)}.module-products-295 .product-grid .product-thumb .countdown>div{border-style:solid;border-color:rgba(226, 226, 226, 1)}.module-products-295 .product-grid.product-list .product-layout
+.image{float:left;height:100%}.module-products-295 .product-grid .product-thumb
+.stats{display:flex;justify-content:center;position:relative;transform:none;width:initial;font-family:\'Roboto\';font-weight:700;font-size:14px;color:rgba(44, 54, 64, 1);background:rgba(255, 255, 255, 1);margin:10px}.module-products-295 .product-grid .product-thumb
+.name{order:-1;display:flex;width:auto;margin-left:auto;margin-right:auto;justify-content:center;margin-left:auto;margin-right:auto;padding-left:10px;margin-top:15px}.module-products-295 .product-grid .product-thumb .stats .stat-2{font-family:\'Roboto\';font-weight:400}.module-products-295 .product-grid .out-of-stock .product-thumb .stats .stat-2{font-family:\'Roboto\';font-weight:400}.module-products-295 .product-grid .product-thumb .stats
+a{font-family:\'Roboto\';font-weight:400}.module-products-295 .product-grid .product-thumb .stats a:hover{color:rgba(254, 212, 48, 1)}.module-products-295 .product-grid .stat-1 .stats-label{display:inline-block}.module-products-295 .product-grid .stat-2 .stats-label{display:inline-block}.module-products-295 .product-grid.product-grid .product-thumb
+.rating{position:static;visibility:visible;opacity:1}.module-products-295 .product-grid .product-thumb
+.rating{justify-content:center;display:flex}.module-products-295 .product-grid .product-thumb .rating.no-rating{display:flex}.module-products-295 .product-grid .product-thumb .rating .fa-stack{font-size:14px;width:1.2em}.module-products-295 .product-grid .product-thumb .rating .fa-star, .module-products-295 .product-grid .product-thumb .rating .fa-star+.fa-star-o{color:rgba(254, 212, 48, 1)}.module-products-295 .product-grid .product-thumb .rating-stars{background:rgba(0, 0, 0, 0);box-shadow:0 10px 30px -5px rgba(0, 0, 0, 0.2);padding:5px;margin-top:-5px}.module-products-295 .product-grid .product-thumb .rating.no-rating
+span{opacity:2.3}.module-products-295 .product-grid:not(.product-list) .has-countdown .product-thumb
+.rating{margin-top:-12px}.module-products-295 .product-grid .product-thumb .name
+a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:\'Roboto\';font-weight:400;font-size:14px;color:rgba(51, 51, 51, 1);text-align:center}.module-products-295 .product-grid .product-thumb
+.description{display:none;font-size:13px;color:rgba(105, 105, 115, 1);margin-top:10px}.module-products-295 .product-grid .product-thumb
+.price{display:block;font-size:14px;color:rgba(105, 105, 115, 1);width:auto;margin-left:auto;margin-right:auto;margin-left:auto;margin-right:auto;text-align:center;justify-content:center;align-items:center;padding-left:10px;margin-top:5px;margin-bottom:15px}.module-products-295 .product-grid .product-thumb .price-tax{display:block;font-size:11px;text-align:center}.module-products-295 .product-grid .product-thumb .price-new{font-size:14px;color:rgba(80, 173, 85, 1);font-weight:700;margin:0
+7px 0 0;order:1}.module-products-295 .product-grid .product-thumb .price-old{font-size:11px;color:rgba(139, 145, 152, 1);font-weight:400;text-decoration:line-through;margin:0;order:2}.module-products-295 .product-grid .product-thumb .price>div{align-items:center;flex-direction:row}.module-products-295 .product-grid .product-thumb .buttons-wrapper{display:block}.module-products-295 .product-grid .product-thumb .button-group{justify-content:center}.module-products-295 .product-grid.product-grid .product-thumb .button-group{padding-bottom:15px;padding-left:10px}.module-products-295 .product-grid .product-thumb .cart-group{display:inline-flex}.module-products-295 .product-grid .product-thumb .btn-wishlist{width:40px;height:40px;display:none}.module-products-295 .product-grid .product-thumb .btn-compare{width:40px;height:40px;display:none}.module-products-295 .product-grid .product-thumb .btn-cart::before{display:none;font-size:17px}.module-products-295 .product-grid .product-thumb .btn-cart .btn-text{display:inline-block;padding:0}.module-products-295 .product-grid.product-grid .product-thumb .btn-cart{flex:initial}.module-products-295 .product-grid.product-grid .product-thumb .cart-group{flex:initial}.module-products-295 .product-grid .product-thumb .btn-cart.btn, .module-products-295 .product-grid .product-thumb .btn-cart.btn:visited{font-size:13px;color:rgba(44, 54, 64, 1);font-weight:400;text-transform:uppercase}.module-products-295 .product-grid .product-thumb .btn-cart.btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(66, 66, 66, 1) !important}.module-products-295 .product-grid .product-thumb .btn-cart.btn:active, .module-products-295 .product-grid .product-thumb .btn-cart.btn:hover:active, .module-products-295 .product-grid .product-thumb .btn-cart.btn:focus:active{color:rgba(255, 255, 255, 1) !important;background:rgba(252, 187, 1, 1) !important;box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.1)}.module-products-295 .product-grid .product-thumb .btn-cart.btn:focus{color:rgba(255, 255, 255, 1) !important;box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.1)}.module-products-295 .product-grid .product-thumb .btn-cart.btn{background:rgba(254, 212, 48, 1);border-width:2px;padding:13px;border-radius:3px !important;padding:10px
+!important}.desktop .module-products-295 .product-grid .product-thumb .btn-cart.btn:hover{box-shadow:0 10px 30px rgba(0, 0, 0, 0.1)}.module-products-295 .product-grid .product-thumb .btn-cart.btn.btn.disabled::after{font-size:20px}.module-products-295 .product-grid .product-thumb
+.stepper{display:inline-flex;width:50px;height:36px;border-style:solid;border-color:rgba(105, 105, 115, 1);border-radius:3px;margin-right:5px;border-style:solid;border-color:rgba(226, 226, 226, 1);height:33px}.module-products-295 .product-grid .product-thumb .stepper input.form-control{background:rgba(248, 248, 248, 1) !important;border-width:0px !important}.module-products-295 .product-grid .product-thumb .stepper span
+i{color:rgba(105, 105, 115, 1);background-color:rgba(238, 238, 238, 1)}.module-products-295 .product-grid .button-group-bottom .wish-group.wish-group-bottom{margin:-10px;margin-top:10px}.module-products-295 .product-grid .button-group-bottom .wish-group-bottom{border-width:0;border-top-width:1px;border-style:solid}.module-products-295 .product-grid .product-thumb .btn-wishlist::before{display:inline-block;font-size:20px;color:rgba(139, 145, 152, 1)}.module-products-295 .product-grid .product-thumb .btn-wishlist .btn-text{display:none}.desktop .module-products-295 .product-grid .product-thumb .btn-wishlist:hover::before{color:rgba(66, 66, 66, 1)}.module-products-295 .product-grid .product-thumb .btn-wishlist.btn, .module-products-295 .product-grid .product-thumb .btn-wishlist.btn:visited{font-size:14px;color:rgba(105, 105, 115, 1);text-transform:none}.module-products-295 .product-grid .product-thumb .btn-wishlist.btn:hover{color:rgba(252, 187, 1, 1) !important;background:none !important}.module-products-295 .product-grid .product-thumb .btn-wishlist.btn:active, .module-products-295 .product-grid .product-thumb .btn-wishlist.btn:hover:active, .module-products-295 .product-grid .product-thumb .btn-wishlist.btn:focus:active{color:rgba(252, 187, 1, 1) !important;background:none !important;box-shadow:none}.module-products-295 .product-grid .product-thumb .btn-wishlist.btn:focus{color:rgba(252, 187, 1, 1) !important;background:none;box-shadow:none}.module-products-295 .product-grid .product-thumb .btn-wishlist.btn{background:none;border-style:none;padding:3px;box-shadow:none}.desktop .module-products-295 .product-grid .product-thumb .btn-wishlist.btn:hover{box-shadow:none}.module-products-295 .product-grid .product-thumb .btn-wishlist.btn.btn.disabled::after{font-size:20px}.module-products-295 .product-grid .product-thumb .btn-compare::before{display:inline-block;font-size:18px;color:rgba(139, 145, 152, 1)}.module-products-295 .product-grid .product-thumb .btn-compare .btn-text{display:none}.desktop .module-products-295 .product-grid .product-thumb .btn-compare:hover::before{color:rgba(66, 66, 66, 1)}.module-products-295 .product-grid .product-thumb .btn-compare.btn, .module-products-295 .product-grid .product-thumb .btn-compare.btn:visited{font-size:14px;color:rgba(105, 105, 115, 1);text-transform:none}.module-products-295 .product-grid .product-thumb .btn-compare.btn:hover{color:rgba(252, 187, 1, 1) !important;background:none !important}.module-products-295 .product-grid .product-thumb .btn-compare.btn:active, .module-products-295 .product-grid .product-thumb .btn-compare.btn:hover:active, .module-products-295 .product-grid .product-thumb .btn-compare.btn:focus:active{color:rgba(252, 187, 1, 1) !important;background:none !important;box-shadow:none}.module-products-295 .product-grid .product-thumb .btn-compare.btn:focus{color:rgba(252, 187, 1, 1) !important;background:none;box-shadow:none}.module-products-295 .product-grid .product-thumb .btn-compare.btn{background:none;border-style:none;padding:3px;box-shadow:none}.desktop .module-products-295 .product-grid .product-thumb .btn-compare.btn:hover{box-shadow:none}.module-products-295 .product-grid .product-thumb .btn-compare.btn.btn.disabled::after{font-size:20px}.module-products-295 .product-grid .product-thumb .extra-group{display:none}.module-products-295 .product-grid .product-thumb .extra-group .btn:first-child{display:none}.module-products-295 .product-grid .product-thumb .extra-group .btn-extra+.btn{display:none}.module-products-295 .product-grid .out-of-stock .product-thumb .extra-group .btn:first-child{display:inline-flex}.module-products-295 .product-grid .out-of-stock .product-thumb .extra-group .btn-extra+.btn{display:inline-flex}.module-products-295 .product-grid .product-thumb .extra-group .btn:first-child::before{display:inline-block;font-size:14px;color:rgba(80, 173, 85, 1)}.module-products-295 .product-grid .product-thumb .extra-group .btn:first-child .btn-text{display:inline-block;padding:0
+.4em}.module-products-295 .product-grid .product-thumb .extra-group .btn+.btn::before{display:inline-block;font-size:14px;color:rgba(221, 14, 28, 1)}.module-products-295 .product-grid .product-thumb .extra-group .btn + .btn .btn-text{display:inline-block;padding:0
+.4em}.module-products-295 .product-grid .product-layout .extra-group>div{justify-content:space-between}.module-products-295 .product-grid .product-thumb .extra-group>div{background:rgba(240, 242, 245, 1);padding:9px}.module-products-295 .product-grid .product-thumb .extra-group .btn.btn, .module-products-295 .product-grid .product-thumb .extra-group .btn.btn:visited{font-size:14px;color:rgba(105, 105, 115, 1);text-transform:none}.module-products-295 .product-grid .product-thumb .extra-group .btn.btn:hover{color:rgba(252, 187, 1, 1) !important;background:none !important}.module-products-295 .product-grid .product-thumb .extra-group .btn.btn:active, .module-products-295 .product-grid .product-thumb .extra-group .btn.btn:hover:active, .module-products-295 .product-grid .product-thumb .extra-group .btn.btn:focus:active{color:rgba(252, 187, 1, 1) !important;background:none !important;box-shadow:none}.module-products-295 .product-grid .product-thumb .extra-group .btn.btn:focus{color:rgba(252, 187, 1, 1) !important;background:none;box-shadow:none}.module-products-295 .product-grid .product-thumb .extra-group
+.btn.btn{background:none;border-style:none;padding:3px;box-shadow:none}.desktop .module-products-295 .product-grid .product-thumb .extra-group .btn.btn:hover{box-shadow:none}.module-products-295 .product-grid .product-thumb .extra-group .btn.btn.btn.disabled::after{font-size:20px}.module-products-295 .product-grid .product-thumb .extra-group .btn + .btn.btn, .module-products-295 .product-grid .product-thumb .extra-group .btn+.btn.btn:visited{font-size:14px;color:rgba(105, 105, 115, 1);text-transform:none}.module-products-295 .product-grid .product-thumb .extra-group .btn+.btn.btn:hover{color:rgba(252, 187, 1, 1) !important;background:none !important}.module-products-295 .product-grid .product-thumb .extra-group .btn + .btn.btn:active, .module-products-295 .product-grid .product-thumb .extra-group .btn + .btn.btn:hover:active, .module-products-295 .product-grid .product-thumb .extra-group .btn+.btn.btn:focus:active{color:rgba(252, 187, 1, 1) !important;background:none !important;box-shadow:none}.module-products-295 .product-grid .product-thumb .extra-group .btn+.btn.btn:focus{color:rgba(252, 187, 1, 1) !important;background:none;box-shadow:none}.module-products-295 .product-grid .product-thumb .extra-group .btn+.btn.btn{background:none;border-style:none;padding:3px;box-shadow:none}.desktop .module-products-295 .product-grid .product-thumb .extra-group .btn+.btn.btn:hover{box-shadow:none}.module-products-295 .product-grid .product-thumb .extra-group .btn+.btn.btn.btn.disabled::after{font-size:20px}.module-products-295 .product-grid.product-grid .product-thumb .extra-group{position:static;margin-top:initial}.module-products-295 .product-grid.product-grid .product-thumb .extra-group>div{position:static;transform:none;opacity:1}.module-products-295 .product-grid.product-grid .product-thumb .buttons-wrapper{position:static;width:auto;overflow:visible;order:initial;margin-top:auto;transform:none}.module-products-295 .product-grid.product-grid .product-thumb .buttons-wrapper .button-group{position:static;opacity:1;visibility:visible;transform:none}.module-products-295 .product-grid.product-grid .product-thumb:hover .buttons-wrapper .button-group{transform:none}.module-products-295 .product-grid.product-grid .wish-group{position:static;width:auto;top:auto;visibility:visible;opacity:1;transform:translate3d(0,0,0);justify-content:center}.module-products-295 .product-grid .product-thumb .btn-quickview.btn{border-radius:50px !important}.module-products-295 .product-list .product-thumb{border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1);padding-bottom:25px}.module-products-295 .product-list:not(.product-grid) .product-layout:not(.swiper-slide)+.product-layout:not(.swiper-slide){margin-top:20px}.module-products-295 .product-list .product-thumb:hover .product-img>div{transform:scale(1.12)}.module-products-295 .product-list .product-thumb .product-img{border-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1)}.module-products-295 .product-list .product-thumb .product-img
+img{border-radius:5px}.module-products-295 .product-list .product-thumb .product-labels{visibility:visible;opacity:1}.module-products-295 .product-list .product-thumb .quickview-button{display:none;left:50%;top:50%;bottom:auto;right:auto;transform:translate3d(-50%, -50%, 1px)}.module-products-295 .product-list .out-of-stock .product-thumb .quickview-button{display:flex}.module-products-295 .product-list .product-thumb .btn-quickview{visibility:visible;opacity:1;width:40px;height:40px}.module-products-295 .product-list .product-thumb .btn-quickview .btn-text{display:none}.module-products-295 .product-list .product-thumb .btn-quickview::before{display:inline-block;content:\'\\ebef\' !important;font-family:icomoon !important;font-size:17px}.module-products-295 .product-list .product-thumb
+.countdown{display:flex;visibility:visible;opacity:1;transform:translate3d(-50%, 0, 1px) scale(1);bottom:10px}.module-products-295 .product-list.product-list .product-layout
+.image{float:left;height:100%}.module-products-295 .product-list .product-thumb
+.caption{padding-left:20px}.module-products-295 .product-list .product-thumb
+.stats{display:flex;justify-content:flex-start;font-weight:700;margin-bottom:10px}.module-products-295 .product-list .stat-1 .stats-label{display:inline-block}.module-products-295 .product-list .stat-2 .stats-label{display:inline-block}.module-products-295 .product-list.product-grid .product-thumb
+.rating{position:static;visibility:visible;opacity:1}.module-products-295 .product-list .product-thumb
+.rating{justify-content:flex-start;margin-bottom:5px;display:flex}.module-products-295 .product-list .product-thumb .rating.no-rating{display:flex}.module-products-295 .product-list .product-thumb .rating .fa-stack{font-size:14px;width:1.2em}.module-products-295 .product-list .product-thumb .rating .fa-star, .module-products-295 .product-list .product-thumb .rating .fa-star+.fa-star-o{color:rgba(254, 212, 48, 1)}.module-products-295 .product-list .product-thumb .rating-stars{background:rgba(0, 0, 0, 0);box-shadow:0 10px 30px -5px rgba(0, 0, 0, 0.2)}.module-products-295 .product-list .product-thumb .rating.no-rating
+span{opacity:1.3}.module-products-295 .product-list .product-thumb
+.name{display:flex;width:auto;margin-left:auto;margin-right:auto;justify-content:flex-start;margin-left:0;margin-right:auto;margin-bottom:5px}.module-products-295 .product-list .product-thumb .name
+a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:\'Montserrat\';font-weight:600;font-size:20px;color:rgba(51, 51, 51, 1);text-transform:none;text-align:left}.module-products-295 .product-list .product-thumb
+.description{display:block;font-size:14px;color:rgba(105, 105, 115, 1);line-height:1.5;margin-top:5px;margin-bottom:10px}.module-products-295 .product-list .product-thumb
+.price{display:block;font-family:\'Roboto\';font-weight:700;font-size:20px;text-align:left;width:auto;margin-left:auto;margin-right:auto;margin-left:0;margin-right:auto;text-align:left;justify-content:flex-start;margin-bottom:10px}.module-products-295 .product-list .product-thumb .price-tax{display:block;font-size:12px;color:rgba(105, 105, 115, 1);font-weight:400}.module-products-295 .product-list .product-thumb .price-new{color:rgba(80, 173, 85, 1);margin:0
+7px 0 0;order:1}.module-products-295 .product-list .product-thumb .price-old{font-size:16px;color:rgba(105, 105, 115, 1);text-decoration:line-through;margin:0;order:2}.module-products-295 .product-list .product-thumb .price>div{align-items:center;flex-direction:row}.module-products-295 .product-list .product-thumb .buttons-wrapper{display:block}.module-products-295 .product-list .product-thumb .button-group{justify-content:flex-start}.module-products-295 .product-list.product-list .product-thumb .buttons-wrapper{margin-top:5px}.module-products-295 .product-list .product-thumb .cart-group{display:inline-flex}.module-products-295 .product-list .product-thumb .btn-cart{height:38px;margin-right:5px}.module-products-295 .product-list .product-thumb .btn-wishlist{width:38px;height:38px;display:none}.module-products-295 .product-list .product-thumb .btn-compare{width:38px;height:38px;display:none;margin-left:5px}.module-products-295 .product-list .product-thumb .btn-cart::before{display:inline-block;font-size:16px}.module-products-295 .product-list .product-thumb .btn-cart .btn-text{display:inline-block;padding:0
+.4em}.module-products-295 .product-list.product-grid .product-thumb .btn-cart{flex:initial}.module-products-295 .product-list.product-grid .product-thumb .cart-group{flex:initial}.module-products-295 .product-list .product-thumb
+.stepper{display:inline-flex;width:50px;height:36px;border-style:solid;border-color:rgba(105, 105, 115, 1);border-radius:3px;margin-right:5px;height:38px}.module-products-295 .product-list .product-thumb .stepper input.form-control{background:rgba(248, 248, 248, 1) !important;border-width:0px !important}.module-products-295 .product-list .product-thumb .stepper span
+i{color:rgba(105, 105, 115, 1);background-color:rgba(238, 238, 238, 1)}.module-products-295 .product-list .product-thumb .btn-wishlist::before{display:inline-block;font-size:16px}.module-products-295 .product-list .product-thumb .btn-wishlist .btn-text{display:none}.module-products-295 .product-list .product-thumb .btn-wishlist.btn, .module-products-295 .product-list .product-thumb .btn-wishlist.btn:visited{font-size:13px;color:rgba(44, 54, 64, 1);font-weight:400;text-transform:uppercase}.module-products-295 .product-list .product-thumb .btn-wishlist.btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(66, 66, 66, 1) !important}.module-products-295 .product-list .product-thumb .btn-wishlist.btn:active, .module-products-295 .product-list .product-thumb .btn-wishlist.btn:hover:active, .module-products-295 .product-list .product-thumb .btn-wishlist.btn:focus:active{color:rgba(255, 255, 255, 1) !important;background:rgba(252, 187, 1, 1) !important;border-color:rgba(252, 187, 1, 1) !important;box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.1)}.module-products-295 .product-list .product-thumb .btn-wishlist.btn:focus{color:rgba(255, 255, 255, 1) !important;box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.1)}.module-products-295 .product-list .product-thumb .btn-wishlist.btn{background:none;border-width:1px;border-style:solid;border-color:rgba(105, 105, 115, 1);padding:12px;padding-right:15px;padding-left:15px}.module-products-295 .product-list .product-thumb .btn-wishlist.btn:hover, .module-products-295 .product-list .product-thumb .btn-wishlist.btn:active:hover{border-color:rgba(66, 66, 66, 1)}.desktop .module-products-295 .product-list .product-thumb .btn-wishlist.btn:hover{box-shadow:0 10px 30px rgba(0, 0, 0, 0.1)}.module-products-295 .product-list .product-thumb .btn-wishlist.btn.btn.disabled::after{font-size:20px}.module-products-295 .product-list .product-thumb .btn-compare::before{display:inline-block;font-size:16px}.module-products-295 .product-list .product-thumb .btn-compare .btn-text{display:none}.module-products-295 .product-list .product-thumb .btn-compare.btn, .module-products-295 .product-list .product-thumb .btn-compare.btn:visited{font-size:13px;color:rgba(44, 54, 64, 1);font-weight:400;text-transform:uppercase}.module-products-295 .product-list .product-thumb .btn-compare.btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(66, 66, 66, 1) !important}.module-products-295 .product-list .product-thumb .btn-compare.btn:active, .module-products-295 .product-list .product-thumb .btn-compare.btn:hover:active, .module-products-295 .product-list .product-thumb .btn-compare.btn:focus:active{color:rgba(255, 255, 255, 1) !important;background:rgba(252, 187, 1, 1) !important;border-color:rgba(252, 187, 1, 1) !important;box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.1)}.module-products-295 .product-list .product-thumb .btn-compare.btn:focus{color:rgba(255, 255, 255, 1) !important;box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.1)}.module-products-295 .product-list .product-thumb .btn-compare.btn{background:none;border-width:1px;border-style:solid;border-color:rgba(105, 105, 115, 1);padding:12px;padding-right:15px;padding-left:15px}.module-products-295 .product-list .product-thumb .btn-compare.btn:hover, .module-products-295 .product-list .product-thumb .btn-compare.btn:active:hover{border-color:rgba(66, 66, 66, 1)}.desktop .module-products-295 .product-list .product-thumb .btn-compare.btn:hover{box-shadow:0 10px 30px rgba(0, 0, 0, 0.1)}.module-products-295 .product-list .product-thumb .btn-compare.btn.btn.disabled::after{font-size:20px}.module-products-295 .product-list .product-thumb .extra-group{display:block}.module-products-295 .product-list .product-thumb .extra-group .btn:first-child{display:none}.module-products-295 .product-list .product-thumb .extra-group .btn-extra+.btn{display:inline-flex}.module-products-295 .product-list .product-thumb .extra-group .btn:first-child::before{display:inline-block;content:\'\\e9c7\' !important;font-family:icomoon !important;font-size:16px;color:rgba(0, 0, 0, 0)}.module-products-295 .product-list .product-thumb .extra-group .btn:first-child .btn-text{display:inline-block;padding:0
+.4em}.module-products-295 .product-list .product-thumb .extra-group .btn+.btn::before{display:inline-block;font-size:16px}.module-products-295 .product-list .product-thumb .extra-group .btn + .btn .btn-text{display:inline-block;padding:0
+.4em}.module-products-295 .product-list .product-thumb .extra-group .btn+.btn.btn{margin-left:5px;background:none;border-style:none;padding:3px;box-shadow:none}.module-products-295 .product-list .product-layout .extra-group>div{justify-content:flex-start}.module-products-295 .product-list .product-thumb .extra-group>div{margin-top:10px;box-shadow:0 10px 30px -5px rgba(0, 0, 0, 0.2)}.module-products-295 .product-list .product-thumb .extra-group .btn.btn, .module-products-295 .product-list .product-thumb .extra-group .btn.btn:visited{font-size:14px;color:rgba(105, 105, 115, 1);text-transform:none}.module-products-295 .product-list .product-thumb .extra-group .btn.btn:hover{color:rgba(252, 187, 1, 1) !important;background:none !important}.module-products-295 .product-list .product-thumb .extra-group .btn.btn:active, .module-products-295 .product-list .product-thumb .extra-group .btn.btn:hover:active, .module-products-295 .product-list .product-thumb .extra-group .btn.btn:focus:active{color:rgba(252, 187, 1, 1) !important;background:none !important;box-shadow:none}.module-products-295 .product-list .product-thumb .extra-group .btn.btn:focus{color:rgba(252, 187, 1, 1) !important;background:none;box-shadow:none}.module-products-295 .product-list .product-thumb .extra-group
+.btn.btn{background:none;border-style:none;padding:3px;box-shadow:none}.desktop .module-products-295 .product-list .product-thumb .extra-group .btn.btn:hover{box-shadow:none}.module-products-295 .product-list .product-thumb .extra-group .btn.btn.btn.disabled::after{font-size:20px}.module-products-295 .product-list .product-thumb .extra-group .btn + .btn.btn, .module-products-295 .product-list .product-thumb .extra-group .btn+.btn.btn:visited{font-size:14px;color:rgba(105, 105, 115, 1);text-transform:none}.module-products-295 .product-list .product-thumb .extra-group .btn+.btn.btn:hover{color:rgba(252, 187, 1, 1) !important;background:none !important}.module-products-295 .product-list .product-thumb .extra-group .btn + .btn.btn:active, .module-products-295 .product-list .product-thumb .extra-group .btn + .btn.btn:hover:active, .module-products-295 .product-list .product-thumb .extra-group .btn+.btn.btn:focus:active{color:rgba(252, 187, 1, 1) !important;background:none !important;box-shadow:none}.module-products-295 .product-list .product-thumb .extra-group .btn+.btn.btn:focus{color:rgba(252, 187, 1, 1) !important;background:none;box-shadow:none}.desktop .module-products-295 .product-list .product-thumb .extra-group .btn+.btn.btn:hover{box-shadow:none}.module-products-295 .product-list .product-thumb .extra-group .btn+.btn.btn.btn.disabled::after{font-size:20px}.module-products-295 .product-list.product-grid .product-thumb .extra-group{position:static;margin-top:initial}.module-products-295 .product-list.product-grid .product-thumb .extra-group>div{position:static;transform:none;opacity:1}.module-products-295 .product-list.product-grid .product-thumb .buttons-wrapper{position:static;width:auto;overflow:visible;order:initial;margin-top:auto;transform:none}.module-products-295 .product-list.product-grid .product-thumb .buttons-wrapper .button-group{position:static;opacity:1;visibility:visible;transform:none}.module-products-295 .product-list.product-grid .product-thumb:hover .buttons-wrapper .button-group{transform:none}.module-products-295 .product-list.product-grid .wish-group{justify-content:flex-start}.module-products-295 .product-list .product-thumb .btn-quickview.btn{border-radius:50px !important}@media (max-width: 1024px){.module-products-295 .swiper-buttons{display:none !important}.module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 4 * 14px) / 5 - 0.01px)}.module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 5 - 0.01px)}.module-products-295 .swiper-container{padding:0px}.module-products-295 .product-grid .product-thumb
+.countdown{display:none}.module-products-295 .product-grid .product-thumb
+.price{font-size:14px}.module-products-295 .product-grid .product-thumb .price-old{font-size:11px}}@media (max-width: 980px){.module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 2 * 14px) / 3 - 0.01px)}.module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 2 * 14px) / 3 - 0.01px)}.one-column #content .module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 3 - 0.01px)}}@media (max-width: 760px){.module-products-295 .swiper-container{overflow:visible}.module-products-295 .nav-tabs > li > a, .module-products-295 .nav-tabs > li.active > a, .module-products-295 .nav-tabs > li.active > a:hover, .module-products-295 .nav-tabs>li.active>a:focus{font-size:14px}.module-products-295 .nav-tabs{display:flex;justify-content:flex-start}.module-products-295 .nav-tabs>li{flex-grow:1}.module-products-295:not(.carousel-mode) .module-body .module-item>div{margin:-5px}.module-products-295 .product-grid .product-thumb
+.stats{font-size:11px;color:rgba(44, 54, 64, 1);font-weight:700}.module-products-295 .product-grid .product-thumb .buttons-wrapper{display:block}.module-products-295 .product-list.product-list .product-layout
+.image{float:none;height:auto}.module-products-295 .product-list .product-thumb
+.caption{padding-top:20px;padding-left:0px}.module-products-295 .product-list .product-thumb .btn-wishlist.btn{border-width:1px}.module-products-295 .product-list .product-thumb .btn-compare.btn{border-width:1px}}@media (max-width: 470px){.module-products-295 .nav-tabs>li{border-style:none;width:calc(100% / 2)}.module-products-295 .nav-tabs>li:first-child{border-width:0;border-bottom-width:1px;border-left-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1)}.module-products-295 .nav-tabs{border-radius:0px}.module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 1 * 14px) / 2 - 0.01px)}.module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 2 - 0.01px)}.one-column #content .module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 1 * 14px) / 2 - 0.01px)}.one-column #content .module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 2 - 0.01px)}.two-column #content .module-products-295 .product-layout.swiper-slide{margin-right:14px;width:calc((100% - 1 * 14px) / 2 - 0.01px)}.two-column #content .module-products-295 .product-layout:not(.swiper-slide){padding:7px;width:calc(100% / 2 - 0.01px)}.module-products-295 .product-grid .product-thumb .name
+a{font-size:14px}.module-products-295 .product-grid .product-thumb .btn-cart .btn-text{display:none}.module-products-295 .product-grid .product-thumb .btn-cart::before{display:inline-block}.module-products-295 .product-grid .product-thumb
+.stepper{height:37px}}.module-products-295 .nav-tabs>.tab-2>a::before{content:none !important}.module-products-295 .nav-tabs>.tab-2.active>a::before{content:none !important}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        600 => '600',
+        700 => '700',
+        400 => '400',
+      ),
+      'Roboto' => 
+      array (
+        700 => '700',
+        400 => '400',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'sectionsDisplay' => 'blocks',
+    'sectionsDisplayTablet' => '',
+    'sectionsDisplayPhone' => '',
+    'carousel' => true,
+    'carouselTablet' => false,
+    'carouselPhone' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 6,
+          'spacing' => 14,
+        ),
+        1024 => 
+        array (
+          'items' => 5,
+          'spacing' => 14,
+        ),
+        980 => 
+        array (
+          'items' => 3,
+          'spacing' => 14,
+        ),
+        470 => 
+        array (
+          'items' => 2,
+          'spacing' => 14,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 5,
+          'spacing' => 14,
+        ),
+        980 => 
+        array (
+          'items' => 3,
+          'spacing' => 14,
+        ),
+        470 => 
+        array (
+          'items' => 2,
+          'spacing' => 14,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 14,
+        ),
+        470 => 
+        array (
+          'items' => 2,
+          'spacing' => 14,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 14,
+        ),
+      ),
+    ),
+    'default' => '',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fit',
+    ),
+    'moduleProductGridSecondImageStatus' => true,
+    'moduleProductGridQuickviewDisplay' => 'icon',
+    'moduleProductGridQuickviewTooltipStatus' => true,
+    'moduleProductGridQuickviewTooltipPosition' => 'top',
+    'moduleProductGridRatingPosition' => 'top',
+    'moduleProductGridRatingVisibility' => true,
+    'moduleProductGridNamePosition' => 'default',
+    'moduleProductGridCartDisplay' => 'text',
+    'moduleProductGridCartTooltipStatus' => true,
+    'moduleProductGridCartTooltipPosition' => 'top',
+    'moduleProductGridWishlistDisplay' => 'icon',
+    'moduleProductGridWishlistTooltipStatus' => true,
+    'moduleProductGridWishlistTooltipPosition' => 'top',
+    'moduleProductGridCompareDisplay' => 'icon',
+    'moduleProductGridCompareTooltipStatus' => true,
+    'moduleProductGridCompareTooltipPosition' => 'top',
+    'moduleProductGridExtraButtonDisplay1' => 'both',
+    'moduleProductGridExtraButtonDisplay2' => 'both',
+    'moduleProductGridExtraButtonTooltipStatus' => false,
+    'moduleProductGridExtraButtonTooltipPosition' => 'top',
+    'moduleProductGridExtraPosition' => 'bottom',
+    'moduleProductGridButtonsPosition' => 'bottom',
+    'moduleProductListSecondImageStatus' => true,
+    'moduleProductListQuickviewDisplay' => 'icon',
+    'moduleProductListQuickviewTooltipStatus' => false,
+    'moduleProductListQuickviewTooltipPosition' => 'top',
+    'moduleProductListRatingPosition' => 'top',
+    'moduleProductListRatingVisibility' => true,
+    'moduleProductListNamePosition' => 'default',
+    'moduleProductListCartDisplay' => 'both',
+    'moduleProductListCartTooltipStatus' => true,
+    'moduleProductListCartTooltipPosition' => 'top',
+    'moduleProductListWishlistDisplay' => 'icon',
+    'moduleProductListWishlistTooltipStatus' => true,
+    'moduleProductListWishlistTooltipPosition' => 'top',
+    'moduleProductListCompareDisplay' => 'icon',
+    'moduleProductListCompareTooltipStatus' => true,
+    'moduleProductListCompareTooltipPosition' => 'top',
+    'moduleProductListExtraButtonDisplay1' => 'both',
+    'moduleProductListExtraButtonDisplay2' => 'both',
+    'moduleProductListExtraButtonTooltipStatus' => true,
+    'moduleProductListExtraButtonTooltipPosition' => 'top',
+    'moduleProductListExtraPosition' => 'bottom',
+    'moduleProductListButtonsPosition' => 'bottom',
+    'moduleProductDescriptionLimit' => '150',
+    'moduleProductStat1' => 'sku',
+    'moduleProductStat2' => 'none',
+    'status' => true,
+    'id' => 'products-64996eec577b3',
+    'module_id' => 295,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-products',
+      2 => 'module-products-295',
+      3 => 'module-products-grid',
+      'carousel-mode' => true,
+      'isotope' => false,
+    ),
+    'image_width' => 500,
+    'image_height' => 500,
+    'image_resize' => 'fit',
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'dummy_image' => 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AQMAAADxGE3JAAAABlBMVEUAAAAEAgSXNbeIAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADVJREFUeNrtwTEBAAAAwqD1T+1hDaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbn0AAAGDIqjNAAAAAElFTkSuQmCC',
+    'text_tax' => 'Ex Tax:',
+    'button_cart' => 'Add to Cart',
+    'button_wishlist' => 'Add to Wish List',
+    'button_compare' => 'Compare this Product',
+    'default_index' => 1,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Hot Listed Products',
+        'tabType' => 'content',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'filter' => 
+        array (
+          'sort' => 'p.viewed',
+          'order' => 'DESC',
+          'start' => 0,
+          'limit' => 24,
+          'preset' => 'most_viewed',
+        ),
+        'id' => '295-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'panel' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+          40 => 
+          array (
+            'product_id' => '40',
+            'name' => 'iPhone',
+            'description' => '&lt;p class=&quot;intro&quot;&gt;
+	iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.&lt;/p&gt;
+',
+            'meta_title' => 'iPhone',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'product 11',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '970',
+            'stock_status' => 'Out Of Stock',
+            'image' => 'catalog/demo/iphone_1.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '101.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '10.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '1',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 21:07:12',
+            'date_modified' => '2011-09-30 01:06:53',
+            'viewed' => '0',
+          ),
+          49 => 
+          array (
+            'product_id' => '49',
+            'name' => 'Samsung Galaxy Tab 10.1',
+            'description' => '&lt;p&gt;
+	Samsung Galaxy Tab 10.1, is the world&amp;rsquo;s thinnest tablet, measuring 8.6 mm thickness, running with Android 3.0 Honeycomb OS on a 1GHz dual-core Tegra 2 processor, similar to its younger brother Samsung Galaxy Tab 8.9.&lt;/p&gt;
+&lt;p&gt;
+	Samsung Galaxy Tab 10.1 gives pure Android 3.0 experience, adding its new TouchWiz UX or TouchWiz 4.0 &amp;ndash; includes a live panel, which lets you to customize with different content, such as your pictures, bookmarks, and social feeds, sporting a 10.1 inches WXGA capacitive touch screen with 1280 x 800 pixels of resolution, equipped with 3 megapixel rear camera with LED flash and a 2 megapixel front camera, HSPA+ connectivity up to 21Mbps, 720p HD video recording capability, 1080p HD playback, DLNA support, Bluetooth 2.1, USB 2.0, gyroscope, Wi-Fi 802.11 a/b/g/n, micro-SD slot, 3.5mm headphone jack, and SIM slot, including the Samsung Stick &amp;ndash; a Bluetooth microphone that can be carried in a pocket like a pen and sound dock with powered subwoofer.&lt;/p&gt;
+&lt;p&gt;
+	Samsung Galaxy Tab 10.1 will come in 16GB / 32GB / 64GB verities and pre-loaded with Social Hub, Reader&amp;rsquo;s Hub, Music Hub and Samsung Mini Apps Tray &amp;ndash; which gives you access to more commonly used apps to help ease multitasking and it is capable of Adobe Flash Player 10.2, powered by 6860mAh battery that gives you 10hours of video-playback time.&amp;nbsp;&amp;auml;&amp;ouml;&lt;/p&gt;
+',
+            'meta_title' => 'Samsung Galaxy Tab 10.1',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'SAM1',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '0',
+            'stock_status' => 'Pre-Order',
+            'image' => 'catalog/demo/samsung_tab_1.jpg',
+            'manufacturer_id' => NULL,
+            'manufacturer' => NULL,
+            'price' => '199.9900',
+            'special' => NULL,
+            'reward' => '1000',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2011-04-25',
+            'weight' => '0.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '1',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '1',
+            'status' => '1',
+            'date_added' => '2011-04-26 08:57:34',
+            'date_modified' => '2011-09-30 01:06:23',
+            'viewed' => '0',
+          ),
+          48 => 
+          array (
+            'product_id' => '48',
+            'name' => 'iPod Classic',
+            'description' => '&lt;div class=&quot;cpt_product_description &quot;&gt;
+	&lt;div&gt;
+		&lt;p&gt;
+			&lt;strong&gt;More room to move.&lt;/strong&gt;&lt;/p&gt;
+		&lt;p&gt;
+			With 80GB or 160GB of storage and up to 40 hours of battery life, the new iPod classic lets you enjoy up to 40,000 songs or up to 200 hours of video or any combination wherever you go.&lt;/p&gt;
+		&lt;p&gt;
+			&lt;strong&gt;Cover Flow.&lt;/strong&gt;&lt;/p&gt;
+		&lt;p&gt;
+			Browse through your music collection by flipping through album art. Select an album to turn it over and see the track list.&lt;/p&gt;
+		&lt;p&gt;
+			&lt;strong&gt;Enhanced interface.&lt;/strong&gt;&lt;/p&gt;
+		&lt;p&gt;
+			Experience a whole new way to browse and view your music and video.&lt;/p&gt;
+		&lt;p&gt;
+			&lt;strong&gt;Sleeker design.&lt;/strong&gt;&lt;/p&gt;
+		&lt;p&gt;
+			Beautiful, durable, and sleeker than ever, iPod classic now features an anodized aluminum and polished stainless steel enclosure with rounded edges.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- cpt_container_end --&gt;',
+            'meta_title' => 'iPod Classic',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'product 20',
+            'sku' => 'test 1',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => 'test 2',
+            'quantity' => '995',
+            'stock_status' => 'Out Of Stock',
+            'image' => 'catalog/demo/ipod_classic_1.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '100.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-08',
+            'weight' => '1.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '2',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-08 17:21:51',
+            'date_modified' => '2011-09-30 01:07:06',
+            'viewed' => '0',
+          ),
+          47 => 
+          array (
+            'product_id' => '47',
+            'name' => 'HP LP3065',
+            'description' => '&lt;p&gt;
+	Stop your co-workers in their tracks with the stunning new 30-inch diagonal HP LP3065 Flat Panel Monitor. This flagship monitor features best-in-class performance and presentation features on a huge wide-aspect screen while letting you work as comfortably as possible - you might even forget you&amp;#39;re at the office&lt;/p&gt;
+',
+            'meta_title' => 'HP LP3065',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 21',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '1000',
+            'stock_status' => 'Out Of Stock',
+            'image' => 'catalog/demo/hp_1.jpg',
+            'manufacturer_id' => '7',
+            'manufacturer' => 'Hewlett-Packard',
+            'price' => '100.0000',
+            'special' => NULL,
+            'reward' => '300',
+            'points' => '400',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '1.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '1',
+            'subtract' => '0',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 21:08:40',
+            'date_modified' => '2011-09-30 01:05:28',
+            'viewed' => '0',
+          ),
+          46 => 
+          array (
+            'product_id' => '46',
+            'name' => 'Sony VAIO',
+            'description' => '&lt;div&gt;
+	Unprecedented power. The next generation of processing technology has arrived. Built into the newest VAIO notebooks lies Intel&amp;#39;s latest, most powerful innovation yet: Intel&amp;reg; Centrino&amp;reg; 2 processor technology. Boasting incredible speed, expanded wireless connectivity, enhanced multimedia support and greater energy efficiency, all the high-performance essentials are seamlessly combined into a single chip.&lt;/div&gt;
+',
+            'meta_title' => 'Sony VAIO',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 19',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '1000',
+            'stock_status' => 'Out Of Stock',
+            'image' => 'catalog/demo/sony_vaio_1.jpg',
+            'manufacturer_id' => '10',
+            'manufacturer' => 'Sony',
+            'price' => '1000.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '0.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '2',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 21:08:29',
+            'date_modified' => '2011-09-30 01:06:39',
+            'viewed' => '0',
+          ),
+          45 => 
+          array (
+            'product_id' => '45',
+            'name' => 'MacBook Pro',
+            'description' => '&lt;div class=&quot;cpt_product_description &quot;&gt;
+	&lt;div&gt;
+		&lt;p&gt;
+			&lt;b&gt;Latest Intel mobile architecture&lt;/b&gt;&lt;/p&gt;
+		&lt;p&gt;
+			Powered by the most advanced mobile processors from Intel, the new Core 2 Duo MacBook Pro is over 50% faster than the original Core Duo MacBook Pro and now supports up to 4GB of RAM.&lt;/p&gt;
+		&lt;p&gt;
+			&lt;b&gt;Leading-edge graphics&lt;/b&gt;&lt;/p&gt;
+		&lt;p&gt;
+			The NVIDIA GeForce 8600M GT delivers exceptional graphics processing power. For the ultimate creative canvas, you can even configure the 17-inch model with a 1920-by-1200 resolution display.&lt;/p&gt;
+		&lt;p&gt;
+			&lt;b&gt;Designed for life on the road&lt;/b&gt;&lt;/p&gt;
+		&lt;p&gt;
+			Innovations such as a magnetic power connection and an illuminated keyboard with ambient light sensor put the MacBook Pro in a class by itself.&lt;/p&gt;
+		&lt;p&gt;
+			&lt;b&gt;Connect. Create. Communicate.&lt;/b&gt;&lt;/p&gt;
+		&lt;p&gt;
+			Quickly set up a video conference with the built-in iSight camera. Control presentations and media from up to 30 feet away with the included Apple Remote. Connect to high-bandwidth peripherals with FireWire 800 and DVI.&lt;/p&gt;
+		&lt;p&gt;
+			&lt;b&gt;Next-generation wireless&lt;/b&gt;&lt;/p&gt;
+		&lt;p&gt;
+			Featuring 802.11n wireless technology, the MacBook Pro delivers up to five times the performance and up to twice the range of previous-generation technologies.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- cpt_container_end --&gt;',
+            'meta_title' => 'MacBook Pro',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 18',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '998',
+            'stock_status' => 'Out Of Stock',
+            'image' => 'catalog/demo/macbook_pro_1.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '2000.0000',
+            'special' => NULL,
+            'reward' => '800',
+            'points' => '0',
+            'tax_class_id' => '100',
+            'date_available' => '2009-02-03',
+            'weight' => '0.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '2',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 21:08:17',
+            'date_modified' => '2011-09-15 22:22:01',
+            'viewed' => '0',
+          ),
+          44 => 
+          array (
+            'product_id' => '44',
+            'name' => 'MacBook Air',
+            'description' => '&lt;div&gt;
+	MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don&amp;rsquo;t lose inches and pounds overnight. It&amp;rsquo;s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.&lt;/div&gt;
+',
+            'meta_title' => 'MacBook Air',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 17',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '1000',
+            'stock_status' => 'Out Of Stock',
+            'image' => 'catalog/demo/macbook_air_1.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '1000.0000',
+            'special' => NULL,
+            'reward' => '700',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '0.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '2',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 21:08:00',
+            'date_modified' => '2011-09-30 01:05:53',
+            'viewed' => '0',
+          ),
+          43 => 
+          array (
+            'product_id' => '43',
+            'name' => 'MacBook',
+            'description' => '&lt;div&gt;
+	&lt;p&gt;
+		&lt;b&gt;Intel Core 2 Duo processor&lt;/b&gt;&lt;/p&gt;
+	&lt;p&gt;
+		Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.&lt;/p&gt;
+	&lt;p&gt;
+		&lt;b&gt;1GB memory, larger hard drives&lt;/b&gt;&lt;/p&gt;
+	&lt;p&gt;
+		The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.&lt;/p&gt;
+	&lt;p&gt;
+		&lt;b&gt;Sleek, 1.08-inch-thin design&lt;/b&gt;&lt;/p&gt;
+	&lt;p&gt;
+		MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.&lt;/p&gt;
+	&lt;p&gt;
+		&lt;b&gt;Built-in iSight camera&lt;/b&gt;&lt;/p&gt;
+	&lt;p&gt;
+		Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth&lt;/p&gt;
+&lt;/div&gt;
+',
+            'meta_title' => 'MacBook',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 16',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '929',
+            'stock_status' => 'Out Of Stock',
+            'image' => 'catalog/demo/macbook_1.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '500.0000',
+            'special' => NULL,
+            'reward' => '600',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '0.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '2',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 21:07:49',
+            'date_modified' => '2011-09-30 01:05:46',
+            'viewed' => '0',
+          ),
+          42 => 
+          array (
+            'product_id' => '42',
+            'name' => 'Apple Cinema 30&quot;',
+            'description' => '&lt;p&gt;
+	&lt;font face=&quot;helvetica,geneva,arial&quot; size=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;2&quot;&gt;The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there\'s no limit to what you can achieve. &lt;br&gt;
+	&lt;br&gt;
+	&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;2&quot;&gt;The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it\'s designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data. &lt;br&gt;
+	&lt;br&gt;
+	&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;2&quot;&gt;Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple\'s ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications. &lt;br&gt;
+	&lt;br&gt;
+	&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;2&quot;&gt;Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment. &lt;br&gt;
+	&lt;br&gt;
+	&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;2&quot;&gt;The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.&lt;br&gt;
+	&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;h3&gt;
+	Features:&lt;/h3&gt;
+&lt;p&gt;
+	Unrivaled display performance&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.&lt;/li&gt;
+	&lt;li&gt;
+		Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.&lt;/li&gt;
+	&lt;li&gt;
+		Wide-format design for simultaneous display of two full pages of text and graphics.&lt;/li&gt;
+	&lt;li&gt;
+		Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks&lt;/li&gt;
+	&lt;li&gt;
+		Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.&lt;/li&gt;
+	&lt;li&gt;
+		Lightning-fast pixel response for full-motion digital video playback.&lt;/li&gt;
+	&lt;li&gt;
+		Support for 16.7 million saturated colors, for use in all graphics-intensive applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Simple setup and operation&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Single cable with elegant breakout for connection to DVI, USB and FireWire ports&lt;/li&gt;
+	&lt;li&gt;
+		Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.&lt;/li&gt;
+	&lt;li&gt;
+		Two FireWire 400 ports to support iSight and other desktop peripherals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Sleek, elegant design&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Huge virtual workspace, very small footprint.&lt;/li&gt;
+	&lt;li&gt;
+		Narrow Bezel design to minimize visual impact of using dual displays&lt;/li&gt;
+	&lt;li&gt;
+		Unique hinge design for effortless adjustment&lt;/li&gt;
+	&lt;li&gt;
+		Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+	Technical specifications&lt;/h3&gt;
+&lt;p&gt;
+	&lt;b&gt;Screen size (diagonal viewable image size)&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Apple Cinema HD Display: 30 inches (29.7-inch viewable)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Screen type&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Resolutions&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		2560 x 1600 pixels (optimum resolution)&lt;/li&gt;
+	&lt;li&gt;
+		2048 x 1280&lt;/li&gt;
+	&lt;li&gt;
+		1920 x 1200&lt;/li&gt;
+	&lt;li&gt;
+		1280 x 800&lt;/li&gt;
+	&lt;li&gt;
+		1024 x 640&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Display colors (maximum)&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		16.7 million&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Viewing angle (typical)&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		170° horizontal; 170° vertical&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Brightness (typical)&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		30-inch Cinema HD Display: 400 cd/m2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Contrast ratio (typical)&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		700:1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Response time (typical)&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		16 ms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Pixel pitch&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		30-inch Cinema HD Display: 0.250 mm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Screen treatment&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Antiglare hardcoat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;User controls (hardware and software)&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Display Power,&lt;/li&gt;
+	&lt;li&gt;
+		System sleep, wake&lt;/li&gt;
+	&lt;li&gt;
+		Brightness&lt;/li&gt;
+	&lt;li&gt;
+		Monitor tilt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Connectors and cables&lt;/b&gt;&lt;br&gt;
+	Cable&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		DVI (Digital Visual Interface)&lt;/li&gt;
+	&lt;li&gt;
+		FireWire 400&lt;/li&gt;
+	&lt;li&gt;
+		USB 2.0&lt;/li&gt;
+	&lt;li&gt;
+		DC power (24 V)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Connectors&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Two-port, self-powered USB 2.0 hub&lt;/li&gt;
+	&lt;li&gt;
+		Two FireWire 400 ports&lt;/li&gt;
+	&lt;li&gt;
+		Kensington security port&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;VESA mount adapter&lt;/b&gt;&lt;br&gt;
+	Requires optional Cinema Display VESA Mount Adapter (M9649G/A)&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Electrical requirements&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Input voltage: 100-240 VAC 50-60Hz&lt;/li&gt;
+	&lt;li&gt;
+		Maximum power when operating: 150W&lt;/li&gt;
+	&lt;li&gt;
+		Energy saver mode: 3W or less&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Environmental requirements&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Operating temperature: 50° to 95° F (10° to 35° C)&lt;/li&gt;
+	&lt;li&gt;
+		Storage temperature: -40° to 116° F (-40° to 47° C)&lt;/li&gt;
+	&lt;li&gt;
+		Operating humidity: 20% to 80% noncondensing&lt;/li&gt;
+	&lt;li&gt;
+		Maximum operating altitude: 10,000 feet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Agency approvals&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		FCC Part 15 Class B&lt;/li&gt;
+	&lt;li&gt;
+		EN55022 Class B&lt;/li&gt;
+	&lt;li&gt;
+		EN55024&lt;/li&gt;
+	&lt;li&gt;
+		VCCI Class B&lt;/li&gt;
+	&lt;li&gt;
+		AS/NZS 3548 Class B&lt;/li&gt;
+	&lt;li&gt;
+		CNS 13438 Class B&lt;/li&gt;
+	&lt;li&gt;
+		ICES-003 Class B&lt;/li&gt;
+	&lt;li&gt;
+		ISO 13406 part 2&lt;/li&gt;
+	&lt;li&gt;
+		MPR II&lt;/li&gt;
+	&lt;li&gt;
+		IEC 60950&lt;/li&gt;
+	&lt;li&gt;
+		UL 60950&lt;/li&gt;
+	&lt;li&gt;
+		CSA 60950&lt;/li&gt;
+	&lt;li&gt;
+		EN60950&lt;/li&gt;
+	&lt;li&gt;
+		ENERGY STAR&lt;/li&gt;
+	&lt;li&gt;
+		TCO \'03&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;Size and weight&lt;/b&gt;&lt;br&gt;
+	30-inch Apple Cinema HD Display&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Height: 21.3 inches (54.3 cm)&lt;/li&gt;
+	&lt;li&gt;
+		Width: 27.2 inches (68.8 cm)&lt;/li&gt;
+	&lt;li&gt;
+		Depth: 8.46 inches (21.5 cm)&lt;/li&gt;
+	&lt;li&gt;
+		Weight: 27.5 pounds (12.5 kg)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;b&gt;System Requirements&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Mac Pro, all graphic options&lt;/li&gt;
+	&lt;li&gt;
+		MacBook Pro&lt;/li&gt;
+	&lt;li&gt;
+		Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better&lt;/li&gt;
+	&lt;li&gt;
+		Power Mac G5 (PCI Express), all graphics options&lt;/li&gt;
+	&lt;li&gt;
+		PowerBook G4 with dual-link DVI support&lt;/li&gt;
+	&lt;li&gt;
+		Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup&lt;/li&gt;
+&lt;/ul&gt;
+',
+            'meta_title' => 'Apple Cinema 30',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 15',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '990',
+            'stock_status' => 'Out Of Stock',
+            'image' => 'catalog/demo/apple_cinema_30.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '100.0000',
+            'special' => '90.0000',
+            'reward' => '100',
+            'points' => '400',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-04',
+            'weight' => '12.50000000',
+            'weight_class_id' => '1',
+            'length' => '1.00000000',
+            'width' => '2.00000000',
+            'height' => '3.00000000',
+            'length_class_id' => '1',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '2',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 21:07:37',
+            'date_modified' => '2011-09-30 00:46:19',
+            'viewed' => '0',
+          ),
+          41 => 
+          array (
+            'product_id' => '41',
+            'name' => 'iMac',
+            'description' => '&lt;div&gt;
+	Just when you thought iMac had everything, now there&acute;s even more. More powerful Intel Core 2 Duo processors. And more memory standard. Combine this with Mac OS X Leopard and iLife &acute;08, and it&acute;s more all-in-one than ever. iMac packs amazing performance into a stunningly slim space.&lt;/div&gt;
+',
+            'meta_title' => 'iMac',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 14',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '977',
+            'stock_status' => 'Out Of Stock',
+            'image' => 'catalog/demo/imac_1.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '100.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '5.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '1',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 21:07:26',
+            'date_modified' => '2011-09-30 01:06:44',
+            'viewed' => '0',
+          ),
+          28 => 
+          array (
+            'product_id' => '28',
+            'name' => 'HTC Touch HD',
+            'description' => '&lt;p&gt;
+	HTC Touch - in High Definition. Watch music videos and streaming content in awe-inspiring high definition clarity for a mobile experience you never thought possible. Seductively sleek, the HTC Touch HD provides the next generation of mobile functionality, all at a simple touch. Fully integrated with Windows Mobile Professional 6.1, ultrafast 3.5G, GPS, 5MP camera, plus lots more - all delivered on a breathtakingly crisp 3.8&amp;quot; WVGA touchscreen - you can take control of your mobile world with the HTC Touch HD.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Processor Qualcomm&amp;reg; MSM 7201A&amp;trade; 528 MHz&lt;/li&gt;
+	&lt;li&gt;
+		Windows Mobile&amp;reg; 6.1 Professional Operating System&lt;/li&gt;
+	&lt;li&gt;
+		Memory: 512 MB ROM, 288 MB RAM&lt;/li&gt;
+	&lt;li&gt;
+		Dimensions: 115 mm x 62.8 mm x 12 mm / 146.4 grams&lt;/li&gt;
+	&lt;li&gt;
+		3.8-inch TFT-LCD flat touch-sensitive screen with 480 x 800 WVGA resolution&lt;/li&gt;
+	&lt;li&gt;
+		HSDPA/WCDMA: Europe/Asia: 900/2100 MHz; Up to 2 Mbps up-link and 7.2 Mbps down-link speeds&lt;/li&gt;
+	&lt;li&gt;
+		Quad-band GSM/GPRS/EDGE: Europe/Asia: 850/900/1800/1900 MHz (Band frequency, HSUPA availability, and data speed are operator dependent.)&lt;/li&gt;
+	&lt;li&gt;
+		Device Control via HTC TouchFLO&amp;trade; 3D &amp;amp; Touch-sensitive front panel buttons&lt;/li&gt;
+	&lt;li&gt;
+		GPS and A-GPS ready&lt;/li&gt;
+	&lt;li&gt;
+		Bluetooth&amp;reg; 2.0 with Enhanced Data Rate and A2DP for wireless stereo headsets&lt;/li&gt;
+	&lt;li&gt;
+		Wi-Fi&amp;reg;: IEEE 802.11 b/g&lt;/li&gt;
+	&lt;li&gt;
+		HTC ExtUSB&amp;trade; (11-pin mini-USB 2.0)&lt;/li&gt;
+	&lt;li&gt;
+		5 megapixel color camera with auto focus&lt;/li&gt;
+	&lt;li&gt;
+		VGA CMOS color camera&lt;/li&gt;
+	&lt;li&gt;
+		Built-in 3.5 mm audio jack, microphone, speaker, and FM radio&lt;/li&gt;
+	&lt;li&gt;
+		Ring tone formats: AAC, AAC+, eAAC+, AMR-NB, AMR-WB, QCP, MP3, WMA, WAV&lt;/li&gt;
+	&lt;li&gt;
+		40 polyphonic and standard MIDI format 0 and 1 (SMF)/SP MIDI&lt;/li&gt;
+	&lt;li&gt;
+		Rechargeable Lithium-ion or Lithium-ion polymer 1350 mAh battery&lt;/li&gt;
+	&lt;li&gt;
+		Expansion Slot: microSD&amp;trade; memory card (SD 2.0 compatible)&lt;/li&gt;
+	&lt;li&gt;
+		AC Adapter Voltage range/frequency: 100 ~ 240V AC, 50/60 Hz DC output: 5V and 1A&lt;/li&gt;
+	&lt;li&gt;
+		Special Features: FM Radio, G-Sensor&lt;/li&gt;
+&lt;/ul&gt;
+',
+            'meta_title' => '	 HTC Touch HD',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 1',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '939',
+            'stock_status' => 'In Stock',
+            'image' => 'catalog/demo/htc_touch_hd_1.jpg',
+            'manufacturer_id' => '5',
+            'manufacturer' => 'HTC',
+            'price' => '100.0000',
+            'special' => NULL,
+            'reward' => '400',
+            'points' => '200',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '146.40000000',
+            'weight_class_id' => '2',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '1',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 16:06:50',
+            'date_modified' => '2011-09-30 01:05:39',
+            'viewed' => '0',
+          ),
+          36 => 
+          array (
+            'product_id' => '36',
+            'name' => 'iPod Nano',
+            'description' => '&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Video in your pocket.&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;
+		Its the small iPod with one very big idea: video. The worlds most popular music player now lets you enjoy movies, TV shows, and more on a two-inch display thats 65% brighter than before.&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Cover Flow.&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;
+		Browse through your music collection by flipping through album art. Select an album to turn it over and see the track list.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Enhanced interface.&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;
+		Experience a whole new way to browse and view your music and video.&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Sleek and colorful.&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;
+		With an anodized aluminum and polished stainless steel enclosure and a choice of five colors, iPod nano is dressed to impress.&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;iTunes.&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;
+		Available as a free download, iTunes makes it easy to browse and buy millions of songs, movies, TV shows, audiobooks, and games and download free podcasts all at the iTunes Store. And you can import your own music, manage your whole media library, and sync your iPod or iPhone with ease.&lt;/p&gt;
+&lt;/div&gt;
+',
+            'meta_title' => 'iPod Nano',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 9',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '994',
+            'stock_status' => '2-3 Days',
+            'image' => 'catalog/demo/ipod_nano_1.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '100.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '100',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '5.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '2',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 18:09:19',
+            'date_modified' => '2011-09-30 01:07:12',
+            'viewed' => '0',
+          ),
+          35 => 
+          array (
+            'product_id' => '35',
+            'name' => 'Product 8',
+            'description' => '&lt;p&gt;
+	Product 8&lt;/p&gt;
+',
+            'meta_title' => 'Product 8',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 8',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '1000',
+            'stock_status' => 'Out Of Stock',
+            'image' => '',
+            'manufacturer_id' => NULL,
+            'manufacturer' => NULL,
+            'price' => '100.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '5.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '1',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 18:08:31',
+            'date_modified' => '2011-09-30 01:06:17',
+            'viewed' => '0',
+          ),
+          34 => 
+          array (
+            'product_id' => '34',
+            'name' => 'iPod Shuffle',
+            'description' => '&lt;div&gt;
+	&lt;strong&gt;Born to be worn.&lt;/strong&gt;
+	&lt;p&gt;
+		Clip on the worlds most wearable music player and take up to 240 songs with you anywhere. Choose from five colors including four new hues to make your musical fashion statement.&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Random meets rhythm.&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;
+		With iTunes autofill, iPod shuffle can deliver a new musical experience every time you sync. For more randomness, you can shuffle songs during playback with the slide of a switch.&lt;/p&gt;
+	&lt;strong&gt;Everything is easy.&lt;/strong&gt;
+	&lt;p&gt;
+		Charge and sync with the included USB dock. Operate the iPod shuffle controls with one hand. Enjoy up to 12 hours straight of skip-free music playback.&lt;/p&gt;
+&lt;/div&gt;
+',
+            'meta_title' => 'iPod Shuffle',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 7',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '1000',
+            'stock_status' => '2-3 Days',
+            'image' => 'catalog/demo/ipod_shuffle_1.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '100.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '5.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '2',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 18:07:54',
+            'date_modified' => '2011-09-30 01:07:17',
+            'viewed' => '0',
+          ),
+          33 => 
+          array (
+            'product_id' => '33',
+            'name' => 'Samsung SyncMaster 941BW',
+            'description' => '&lt;div&gt;
+	Imagine the advantages of going big without slowing down. The big 19&amp;quot; 941BW monitor combines wide aspect ratio with fast pixel response time, for bigger images, more room to work and crisp motion. In addition, the exclusive MagicBright 2, MagicColor and MagicTune technologies help deliver the ideal image in every situation, while sleek, narrow bezels and adjustable stands deliver style just the way you want it. With the Samsung 941BW widescreen analog/digital LCD monitor, it&amp;#39;s not hard to imagine.&lt;/div&gt;
+',
+            'meta_title' => 'Samsung SyncMaster 941BW',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 6',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '1000',
+            'stock_status' => '2-3 Days',
+            'image' => 'catalog/demo/samsung_syncmaster_941bw.jpg',
+            'manufacturer_id' => NULL,
+            'manufacturer' => NULL,
+            'price' => '200.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '5.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '2',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 17:08:31',
+            'date_modified' => '2011-09-30 01:06:29',
+            'viewed' => '0',
+          ),
+          32 => 
+          array (
+            'product_id' => '32',
+            'name' => 'iPod Touch',
+            'description' => '&lt;p&gt;
+	&lt;strong&gt;Revolutionary multi-touch interface.&lt;/strong&gt;&lt;br /&gt;
+	iPod touch features the same multi-touch screen technology as iPhone. Pinch to zoom in on a photo. Scroll through your songs and videos with a flick. Flip through your library by album artwork with Cover Flow.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Gorgeous 3.5-inch widescreen display.&lt;/strong&gt;&lt;br /&gt;
+	Watch your movies, TV shows, and photos come alive with bright, vivid color on the 320-by-480-pixel display.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Music downloads straight from iTunes.&lt;/strong&gt;&lt;br /&gt;
+	Shop the iTunes Wi-Fi Music Store from anywhere with Wi-Fi.1 Browse or search to find the music youre looking for, preview it, and buy it with just a tap.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Surf the web with Wi-Fi.&lt;/strong&gt;&lt;br /&gt;
+	Browse the web using Safari and watch YouTube videos on the first iPod with Wi-Fi built in&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+',
+            'meta_title' => '	 iPod Touch',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 5',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '999',
+            'stock_status' => '2-3 Days',
+            'image' => 'catalog/demo/ipod_touch_1.jpg',
+            'manufacturer_id' => '8',
+            'manufacturer' => 'Apple',
+            'price' => '100.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '5.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '1',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 17:07:26',
+            'date_modified' => '2011-09-30 01:07:22',
+            'viewed' => '0',
+          ),
+          31 => 
+          array (
+            'product_id' => '31',
+            'name' => 'Nikon D300',
+            'description' => '&lt;div class=&quot;cpt_product_description &quot;&gt;
+	&lt;div&gt;
+		Engineered with pro-level features and performance, the 12.3-effective-megapixel D300 combines brand new technologies with advanced features inherited from Nikon&amp;#39;s newly announced D3 professional digital SLR camera to offer serious photographers remarkable performance combined with agility.&lt;br /&gt;
+		&lt;br /&gt;
+		Similar to the D3, the D300 features Nikon&amp;#39;s exclusive EXPEED Image Processing System that is central to driving the speed and processing power needed for many of the camera&amp;#39;s new features. The D300 features a new 51-point autofocus system with Nikon&amp;#39;s 3D Focus Tracking feature and two new LiveView shooting modes that allow users to frame a photograph using the camera&amp;#39;s high-resolution LCD monitor. The D300 shares a similar Scene Recognition System as is found in the D3; it promises to greatly enhance the accuracy of autofocus, autoexposure, and auto white balance by recognizing the subject or scene being photographed and applying this information to the calculations for the three functions.&lt;br /&gt;
+		&lt;br /&gt;
+		The D300 reacts with lightning speed, powering up in a mere 0.13 seconds and shooting with an imperceptible 45-millisecond shutter release lag time. The D300 is capable of shooting at a rapid six frames per second and can go as fast as eight frames per second when using the optional MB-D10 multi-power battery pack. In continuous bursts, the D300 can shoot up to 100 shots at full 12.3-megapixel resolution. (NORMAL-LARGE image setting, using a SanDisk Extreme IV 1GB CompactFlash card.)&lt;br /&gt;
+		&lt;br /&gt;
+		The D300 incorporates a range of innovative technologies and features that will significantly improve the accuracy, control, and performance photographers can get from their equipment. Its new Scene Recognition System advances the use of Nikon&amp;#39;s acclaimed 1,005-segment sensor to recognize colors and light patterns that help the camera determine the subject and the type of scene being photographed before a picture is taken. This information is used to improve the accuracy of autofocus, autoexposure, and auto white balance functions in the D300. For example, the camera can track moving subjects better and by identifying them, it can also automatically select focus points faster and with greater accuracy. It can also analyze highlights and more accurately determine exposure, as well as infer light sources to deliver more accurate white balance detection.&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- cpt_container_end --&gt;',
+            'meta_title' => 'Nikon D300',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 4',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '1000',
+            'stock_status' => '2-3 Days',
+            'image' => 'catalog/demo/nikon_d300_1.jpg',
+            'manufacturer_id' => NULL,
+            'manufacturer' => NULL,
+            'price' => '80.0000',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '0.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '3',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 17:00:10',
+            'date_modified' => '2011-09-30 01:06:00',
+            'viewed' => '0',
+          ),
+          30 => 
+          array (
+            'product_id' => '30',
+            'name' => 'Canon EOS 5D',
+            'description' => '&lt;p&gt;
+	Canon\'s press material for the EOS 5D states that it \'defines (a) new D-SLR category\', while we\'re not typically too concerned with marketing talk this particular statement is clearly pretty accurate. The EOS 5D is unlike any previous digital SLR in that it combines a full-frame (35 mm sized) high resolution sensor (12.8 megapixels) with a relatively compact body (slightly larger than the EOS 20D, although in your hand it feels noticeably \'chunkier\'). The EOS 5D is aimed to slot in between the EOS 20D and the EOS-1D professional digital SLR\'s, an important difference when compared to the latter is that the EOS 5D doesn\'t have any environmental seals. While Canon don\'t specifically refer to the EOS 5D as a \'professional\' digital SLR it will have obvious appeal to professionals who want a high quality digital SLR in a body lighter than the EOS-1D. It will also no doubt appeal to current EOS 20D owners (although lets hope they\'ve not bought too many EF-S lenses...) äë&lt;/p&gt;
+',
+            'meta_title' => 'sdf',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 3',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '7',
+            'stock_status' => '2-3 Days',
+            'image' => 'catalog/demo/canon_eos_5d_1.jpg',
+            'manufacturer_id' => '9',
+            'manufacturer' => 'Canon',
+            'price' => '100.0000',
+            'special' => '80.0000',
+            'reward' => '200',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '0.00000000',
+            'weight_class_id' => '1',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '1',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 16:59:00',
+            'date_modified' => '2011-09-30 01:05:23',
+            'viewed' => '0',
+          ),
+          29 => 
+          array (
+            'product_id' => '29',
+            'name' => 'Palm Treo Pro',
+            'description' => '&lt;p&gt;
+	Redefine your workday with the Palm Treo Pro smartphone. Perfectly balanced, you can respond to business and personal email, stay on top of appointments and contacts, and use Wi-Fi or GPS when you&amp;rsquo;re out and about. Then watch a video on YouTube, catch up with news and sports on the web, or listen to a few songs. Balance your work and play the way you like it, with the Palm Treo Pro.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Windows Mobile&amp;reg; 6.1 Professional Edition&lt;/li&gt;
+	&lt;li&gt;
+		Qualcomm&amp;reg; MSM7201 400MHz Processor&lt;/li&gt;
+	&lt;li&gt;
+		320x320 transflective colour TFT touchscreen&lt;/li&gt;
+	&lt;li&gt;
+		HSDPA/UMTS/EDGE/GPRS/GSM radio&lt;/li&gt;
+	&lt;li&gt;
+		Tri-band UMTS &amp;mdash; 850MHz, 1900MHz, 2100MHz&lt;/li&gt;
+	&lt;li&gt;
+		Quad-band GSM &amp;mdash; 850/900/1800/1900&lt;/li&gt;
+	&lt;li&gt;
+		802.11b/g with WPA, WPA2, and 801.1x authentication&lt;/li&gt;
+	&lt;li&gt;
+		Built-in GPS&lt;/li&gt;
+	&lt;li&gt;
+		Bluetooth Version: 2.0 + Enhanced Data Rate&lt;/li&gt;
+	&lt;li&gt;
+		256MB storage (100MB user available), 128MB RAM&lt;/li&gt;
+	&lt;li&gt;
+		2.0 megapixel camera, up to 8x digital zoom and video capture&lt;/li&gt;
+	&lt;li&gt;
+		Removable, rechargeable 1500mAh lithium-ion battery&lt;/li&gt;
+	&lt;li&gt;
+		Up to 5.0 hours talk time and up to 250 hours standby&lt;/li&gt;
+	&lt;li&gt;
+		MicroSDHC card expansion (up to 32GB supported)&lt;/li&gt;
+	&lt;li&gt;
+		MicroUSB 2.0 for synchronization and charging&lt;/li&gt;
+	&lt;li&gt;
+		3.5mm stereo headset jack&lt;/li&gt;
+	&lt;li&gt;
+		60mm (W) x 114mm (L) x 13.5mm (D) / 133g&lt;/li&gt;
+&lt;/ul&gt;
+',
+            'meta_title' => 'Palm Treo Pro',
+            'meta_description' => '',
+            'meta_keyword' => '',
+            'tag' => '',
+            'model' => 'Product 2',
+            'sku' => '',
+            'upc' => '',
+            'ean' => '',
+            'jan' => '',
+            'isbn' => '',
+            'mpn' => '',
+            'location' => '',
+            'quantity' => '999',
+            'stock_status' => '2-3 Days',
+            'image' => 'catalog/demo/palm_treo_pro_1.jpg',
+            'manufacturer_id' => '6',
+            'manufacturer' => 'Palm',
+            'price' => '279.9900',
+            'special' => NULL,
+            'reward' => '0',
+            'points' => '0',
+            'tax_class_id' => '9',
+            'date_available' => '2009-02-03',
+            'weight' => '133.00000000',
+            'weight_class_id' => '2',
+            'length' => '0.00000000',
+            'width' => '0.00000000',
+            'height' => '0.00000000',
+            'length_class_id' => '3',
+            'subtract' => '1',
+            'rating' => 0.0,
+            'reviews' => 0,
+            'minimum' => '1',
+            'sort_order' => '0',
+            'status' => '1',
+            'date_added' => '2009-02-03 16:42:17',
+            'date_modified' => '2011-09-30 01:06:08',
+            'viewed' => '0',
+          ),
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Best Selling Products',
+        'tabType' => 'content',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'filter' => 
+        array (
+          'sort' => 'p.sort_order',
+          'order' => 'ASC',
+          'start' => 0,
+          'limit' => 0,
+          'preset' => 'custom',
+          'products' => 
+          array (
+            0 => '567',
+            1 => '3651',
+            2 => '568',
+            3 => '571',
+            4 => '886',
+            5 => '742',
+            6 => '168',
+            7 => '150',
+            8 => '918',
+            9 => '715',
+            10 => '1042',
+            11 => '737',
+          ),
+          'custom' => true,
+        ),
+        'id' => '295-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'tab-pane' => false,
+          'panel' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-2',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

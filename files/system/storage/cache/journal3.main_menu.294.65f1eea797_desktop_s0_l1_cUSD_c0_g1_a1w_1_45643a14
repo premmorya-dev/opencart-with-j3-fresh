@@ -1,0 +1,58 @@
+<?php $val = array (
+  'css' => 'div.main-menu.main-menu-294 > .j-menu .menu-item.main-menu-item-1>a::before{content:\'\\e8d2\' !important;font-family:icomoon !important}div.main-menu.main-menu-294 > .j-menu li.main-menu-item-1>a{color:rgba(51, 51, 51, 1) !important;background:rgba(254,212,48,1)}div.main-menu.main-menu-294>.j-menu>.main-menu-item-1>a{border-bottom-left-radius:0px;padding-left:16px !important}.desktop-main-menu-wrapper .main-menu-294 .mega-custom.main-menu-item-1 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-294 .mega-custom.main-menu-item-1>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-294 > .j-menu li.main-menu-item-1:not(.mega-fullwidth)>.dropdown-menu::before{display:none;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-294 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}@media (max-width: 1024px){div.main-menu.main-menu-294 > .j-menu li.main-menu-item-1>a{background:none}div.main-menu.main-menu-294>.j-menu>.main-menu-item-1>a{padding-left:0px !important}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu',
+    'module_id' => 294,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-294',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'All Categories',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '419',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'flyout',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          3 => 'dropdown',
+          4 => 'flyout',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+          'drop-menu' => true,
+        ),
+        'items' => '7',
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

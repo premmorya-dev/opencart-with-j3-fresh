@@ -1,0 +1,167 @@
+<?php $val = array (
+  'css' => '.module-master_slider-26 .ms-view{overflow:hidden}.module-master_slider-26 .ms-slide, .module-master_slider-26 .ms-container, .module-master_slider-26, .module-master_slider-26::before, .module-master_slider-26 .ms-slide-bgcont{border-radius:0px}.module-master_slider-26 .static-text-1{top:0;left:0;right:auto;bottom:auto;transform:none}.module-master_slider-26 .static-text-1
+span{transform:scale(calc(100 / 100));transform-origin:center}.module-master_slider-26 .static-text-2{top:auto;left:0;right:auto;bottom:0;transform:translate3d(0, 0, 0)}.module-master_slider-26 .static-text-2
+span{transform:scale(calc(100 / 100));transform-origin:center}.module-master_slider>img{width:100%}.desktop .module-master_slider-26 .ms-nav-next{opacity:0}.desktop .module-master_slider-26 .ms-nav-prev{opacity:0}.desktop .module-master_slider-26 .ms-container:hover .ms-nav-next{opacity:1}.desktop .module-master_slider-26 .ms-container:hover .ms-nav-prev{opacity:1}.module-master_slider-26 .ms-nav-next{display:flex;left:auto;right:0;top:50%;bottom:auto;transform:translateY(-100%)}.module-master_slider-26 .ms-nav-prev{display:flex;left:auto;right:0;top:50%;bottom:auto;transform:translateY(0)}.module-master_slider-26 .ms-nav-next::before, .module-master_slider-26 .ms-nav-prev::before{content:\'\\e9b1\' !important;font-family:icomoon !important}.desktop .module-master_slider-26 .ms-nav-next:hover::before, .desktop .module-master_slider-26 .ms-nav-prev:hover::before{color:rgba(248, 248, 248, 1)}.module-master_slider-26 .ms-nav-next, .module-master_slider-26 .ms-nav-prev{width:40px;height:40px}.module-master_slider-26 .ms-nav-next:hover, .module-master_slider-26 .ms-nav-prev:hover{background:rgba(252, 187, 1, 1)}.module-master_slider-26 .ms-bullets{display:block;top:auto;bottom:0;left:0;right:auto;transform:none;margin-left:40px;margin-right:40px;margin-top:30px;margin-bottom:30px}.module-master_slider-26 .ms-bullets .ms-bullets-count{flex-direction:row}.module-master_slider-26 .ms-bullets .ms-bullet{margin:calc(8px / 2) !important;background:rgba(139, 145, 152, 1);border-radius:10px}.module-master_slider-26 .ms-bullet{width:15px;height:5px}.desktop .module-master_slider-26 .ms-bullets .ms-bullet:hover, .module-master_slider-26 .ms-bullets .ms-bullet-selected{background:rgba(252, 187, 1, 1)}.module-master_slider-26 .ms-thumb-list{display:block;padding:10px
+0;top:auto !important;bottom:0 !important;order:2}.module-master_slider-26 .ms-thumb-list .ms-thumb-frame{margin-right:10px !important;opacity: .75}.module-master_slider-26 .ms-thumb-frame{border-width:0px}.module-master_slider-26 .ms-timerbar{display:block;top:0 !important;bottom:auto !important}.module-master_slider-26 .master-slider .ms-time-bar{height:3px !important}@media (max-width: 1300px){.module-master_slider-26 .ms-bullets{margin-left:30px;margin-right:30px}}@media (max-width: 1024px){.module-master_slider-26 .ms-nav-next{display:none}.module-master_slider-26 .ms-nav-prev{display:none}.module-master_slider-26 .ms-bullets{margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px}}@media (max-width: 760px){.module-master_slider-26 .ms-bullets{margin-left:12px;margin-right:12px;margin-top:10px;margin-bottom:10px}.module-master_slider-26 .ms-bullet{height:3px}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'shuffle' => false,
+    'imageDimensions' => 
+    array (
+      'width' => 1848,
+      'height' => 616,
+      'resize' => 'fill',
+    ),
+    'sliderDimensions' => 
+    array (
+      'width' => 1848,
+      'height' => 616,
+      'resize' => 'fill',
+    ),
+    'parallaxMode' => false,
+    'parallax' => '25',
+    'layout' => 'fillwidth',
+    'layoutTablet' => '',
+    'layoutPhone' => '',
+    'bottomOffset' => '',
+    'bottomOffsetTablet' => '',
+    'bottomOffsetPhone' => '',
+    'staticTextType' => 'text',
+    'staticText' => '',
+    'staticTextLink' => 
+    array (
+      'type' => '',
+      'id' => '',
+      'href' => '',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'static2TextType' => 'text',
+    'static2Text' => '',
+    'static2TextLink' => 
+    array (
+      'type' => '',
+      'id' => '',
+      'href' => '',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'delay' => '2500',
+    'thumbnails' => false,
+    'thumbnailsDimensions' => 
+    array (
+      'width' => 50,
+      'height' => 50,
+      'resize' => 'fill',
+    ),
+    'lazyLoad' => true,
+    'status' => true,
+    'id' => 'master_slider-64996efa3428c',
+    'module_id' => 26,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-master_slider',
+      2 => 'module-master_slider-26',
+      'fullscreen-slider' => false,
+    ),
+    'width' => 1848,
+    'height' => 616,
+    'options' => 
+    array (
+      'width' => 1848,
+      'height' => 616,
+      'layout' => 'fillwidth',
+      'smoothHeight' => false,
+      'centerControls' => false,
+      'parallaxMode' => 'swipe',
+      'instantStartLayers' => true,
+      'loop' => true,
+      'dir' => 'h',
+      'autoHeight' => true,
+      'rtl' => false,
+      'startOnAppear' => false,
+      'autoplay' => true,
+      'overPause' => true,
+      'shuffle' => false,
+      'view' => 'fadeWave',
+      'speed' => '15',
+      'swipe' => true,
+      'mouse' => true,
+      'controls' => 
+      array (
+        'arrows' => 
+        array (
+          'autohide' => false,
+        ),
+        'bullets' => 
+        array (
+          'autohide' => false,
+        ),
+      ),
+    ),
+    'first_image' => 'https://static.robomart.com/image/cache/placeholder-1848x616w.png.webp',
+    'first_alt' => '',
+    'dummy_image' => 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABzgAAAJoAQMAAAAgYqUAAAAABlBMVEUAAAAEAgSXNbeIAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAKBJREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPBkLl4AAauooecAAAAASUVORK5CYII=',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'type' => 'image',
+        'alt' => '',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '567',
+          'href' => 'https://robomart.com/arduino-uno-r3-with-usb?utm_source=website&utm_medium=right_banner&utm_campaign=promo',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+            'target' => 'target="_blank"',
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '26-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          2 => 'ms-slide',
+        ),
+        'delay' => 2.5,
+        'image' => 'https://static.robomart.com/image/cache/placeholder-1848x616w.png.webp',
+        'image2x' => 'https://static.robomart.com/image/cache/placeholder-3696x1232w.png.webp',
+        'thumb' => false,
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+    'first_image2x' => 'https://static.robomart.com/image/cache/placeholder-3696x1232w.png.webp',
+  ),
+);
